@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "jPJqMluf9+d8h/TxPwZeqZaGNJ4jEF+X6stbVn4lUdQ=",
+  "Source": "workClass",
+  "BasePath": "_content/workClass",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "workClass\\wwwroot",
+      "Source": "workClass",
+      "ContentRoot": "C:\\Users\\elekb\\Downloads\\New folder\\workClass\\workClass\\wwwroot\\",
+      "BasePath": "_content/workClass",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
